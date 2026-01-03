@@ -61,9 +61,9 @@ const PROJECTS = [
     title: "💼 Portfolio Website",
     desc: "Modern portfolio built with React + Framer Motion with smooth animations and clean UI.",
     ss: "/portfolio.jpg",
-    tech: ["React", "Framer Motion", "Tailwind CSS"],
-    live: "https://kunj-desai.vercel.app/",
-    code: "https://github.com/kunj2803/Kunj-Portfolio",
+    tech: ["React", "Framer Motion", "Tailwind CSS", "EmailJS"],
+    live: "https://my-portfolio-6qvo.vercel.app/",
+    code: "https://github.com/gopalverma33/my-portfolio.git",
   },
   
 ];
