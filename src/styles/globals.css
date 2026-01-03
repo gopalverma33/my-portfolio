@@ -1,0 +1,10 @@
+
+.team-contribution {
+  font-size: 0.85rem;
+  margin-top: 6px;
+  opacity: 0.9;
+}
+
+.team-contribution strong {
+  color: #6ee7f9;
+}
