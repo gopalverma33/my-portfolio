@@ -25,28 +25,29 @@ It showcases my projects, skills, resume, and journey as a developer focused on 
 <img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/dd7c267c-4c86-46f3-b48d-38bac7fd571a" />
 <img width="1362" height="643" alt="image" src="https://github.com/user-attachments/assets/2bf6d067-bbbc-4dad-b9f4-5a725e881363" />
 
+---
 
 ## 🚀 Features
 
-- 🎨 **Modern & Responsive UI** with Tailwind CSS
-- ⚡ Smooth animations using **Framer Motion**
-- 💼 Dedicated **Projects, Skills, Resume, and Contact sections**
-- 📨 Functional contact form using **EmailJS**
-- 🌐 Fully responsive across all devices
+- 🎨 **Modern & Responsive UI** with Tailwind CSS  
+- ⚡ Smooth animations using **Framer Motion**  
+- 💼 Dedicated **Projects, Skills, Resume, and Contact sections**  
+- 📨 Functional contact form using **EmailJS**  
+- 🌐 Fully responsive across all devices  
 - 🚀 CI/CD enabled with **GitHub + Vercel**
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category            | Tools / Technologies                    |
-|---------------------|------------------------------------------|
-| **Frontend**        | React.js, HTML5, CSS3, JavaScript         |
-| **Styling**         | Tailwind CSS                              |
-| **Animations**      | Framer Motion                             |
-| **Contact Form**    | EmailJS                                   |
-| **Version Control** | Git & GitHub                              |
-| **Deployment**      | Vercel                                    |
+| Category            | Tools / Technologies            |
+|---------------------|---------------------------------|
+| **Frontend**        | React.js, HTML5, CSS3, JavaScript |
+| **Styling**         | Tailwind CSS                    |
+| **Animations**      | Framer Motion                   |
+| **Contact Form**    | EmailJS                         |
+| **Version Control** | Git & GitHub                    |
+| **Deployment**      | Vercel                          |
 
 ---
 
@@ -66,9 +67,29 @@ npm install
 
 # 4️⃣ Start the development server
 npm start
-# or
-<<<<<<< HEAD
+# or (for Vite)
 npm run dev
-=======
-npm run dev
->>>>>>> 5d870b4 (Update README details)
+Open http://localhost:3000
+ in your browser 🚀
+
+📬 Contact
+
+If you’d like to collaborate or just say hi 👋, feel free to reach out!
+
+📧 Email: gopalverma.dev@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/gopal-verma
+
+🐙 GitHub: https://github.com/gopalverma33
+
+🌟 Deployment
+Deployed seamlessly on Vercel with GitHub-based CI/CD.
+Every push to the main branch triggers an automatic build and deployment.
+
+🌐 Live Website: https://my-portfolio-6qvo.vercel.app/
+
+🏁 License
+
+This project is open source and available under the MIT License.
+Feel free to fork, use, and build upon it ⭐
+“Building clean, scalable, and user-focused web experiences through modern web technologies 💻”
