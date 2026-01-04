@@ -1,4 +1,4 @@
-<img width="1364" height="641" alt="image" src="https://github.com/user-attachments/assets/cec56660-bfd3-4155-97ba-ffe80beb395d" /># 💻 Gopal Verma — Portfolio Website
+# 💻 Gopal Verma — Portfolio Website
 
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, **Tailwind CSS**, and **modern UI design principles**.  
 It showcases my projects, skills, resume, and journey as a developer focused on **Web Development, Software Engineering, and scalable applications**.
