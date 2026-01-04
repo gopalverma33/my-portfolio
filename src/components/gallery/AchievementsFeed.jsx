@@ -2,19 +2,12 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 export function AchievementsFeed() {
-  const achievements = [
+    const achievements = [
     {
-      title: "🏆 1000 Leetcode Questions Solved",
-      img: "/gallery/Achievements/leet.jpeg",
+      title: "",
+      img: "/",
     },
-    {
-      title: "🤵🏻 Technical Lead at AI Club SCET",
-      img: "/gallery/Achievements/techlead.png",
-    },
-    {
-      title: "Qualified for TCS CodeVita Seasone 13 2025",
-      img: "./TCS.jpg",
-    },
+    
   ];
 
   return (
