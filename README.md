@@ -91,6 +91,9 @@ Every push to the main branch triggers an automatic build and deployment.
 
 🏁 License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the [MIT License](LICENSE).
 Feel free to fork, use, and build upon it ⭐
-“Building clean, scalable, and user-focused web experiences through modern web technologies 💻”
+
+---
+
+> *“Showcasing my work and passion through technology 💻”*
