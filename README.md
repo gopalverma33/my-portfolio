@@ -69,19 +69,16 @@ npm install
 npm start
 # or (for Vite)
 npm run dev
-Open http://localhost:3000
- in your browser 🚀
+```
 
----
+Now openOpen http://localhost:3000 in your browser 🚀
 
-##📬 Contact
+📬 Contact
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
 📧 Email: gopalverma.dev@gmail.com
-
 💼 LinkedIn: https://www.linkedin.com/in/gopal-verma
-
 🐙 GitHub: https://github.com/gopalverma33
 
 🌟 Deployment
