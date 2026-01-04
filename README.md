@@ -72,7 +72,7 @@ npm run dev
 Open http://localhost:3000
  in your browser 🚀
 
-📬 Contact
+##📬 Contact
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
