@@ -67,4 +67,8 @@ npm install
 # 4️⃣ Start the development server
 npm start
 # or
+<<<<<<< HEAD
 npm run dev
+=======
+npm run dev
+>>>>>>> 5d870b4 (Update README details)
