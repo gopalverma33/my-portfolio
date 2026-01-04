@@ -71,14 +71,14 @@ npm start
 npm run dev
 ```
 
-Now openOpen http://localhost:3000 in your browser 🚀
+Now open http://localhost:3000 in your browser 🚀
 
 📬 Contact
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
-📧 Email: gopalverma.dev@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/gopal-verma
+📧 Email: gpverma869@gmail.com
+💼 LinkedIn: [https://www.linkedin.com/in/gopal-verma](https://www.linkedin.com/in/gopal-verma-955531339/)
 🐙 GitHub: https://github.com/gopalverma33
 
 🌟 Deployment
