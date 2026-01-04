@@ -12,7 +12,7 @@ It showcases my projects, skills, resume, and journey as a developer focused on 
 
 <img width="1364" height="641" alt="image" src="https://github.com/user-attachments/assets/cce4e021-edb3-4fb6-a7e8-6fdadad9cf21" />
 <img width="1366" height="640" alt="image" src="https://github.com/user-attachments/assets/023a1ac9-7650-49b5-aaa9-f50c262193c7" />
-
+<img width="1366" height="644" alt="image" src="https://github.com/user-attachments/assets/fe8ac0d5-13fb-45ce-a7c4-513a4c370121" />
 
 ## 🚀 Features
 
