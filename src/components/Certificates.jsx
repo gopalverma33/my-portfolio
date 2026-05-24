@@ -3,6 +3,24 @@ import { motion, AnimatePresence } from "framer-motion";
 import "./Certificates.css";
 const CERTS = {
   tech: [
+     {
+      title: "DevOps Skill-Based Project Certification",
+      org: "Datagami",
+      date: "Apr–May 2026",
+      img: "/certs/devops.jpg",
+    },
+    {
+      title: "Agentic AI Certification",
+      org: "Datagami + IBM + NASSCOM",
+      date: "Feb–Mar 2026",
+      img: "/certs/agentic-ai.jpg",
+    },
+    {
+      title: "Generative AI Certification",
+      org: "Datagami + IBM + NASSCOM",
+      date: "Jan–Feb 2026",
+      img: "/certs/generative-ai.jpg",
+    },
     {
       title: "Cybersecurity Analyst Job Simulation",
       org: "TATA (Forage)",
