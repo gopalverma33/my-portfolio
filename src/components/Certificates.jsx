@@ -7,19 +7,19 @@ const CERTS = {
       title: "DevOps Skill-Based Project Certification",
       org: "Datagami",
       date: "Apr–May 2026",
-      img: "/certs/Devops.pdf",
+      img: "/certs/Devops.jpg",
     },
     {
       title: "Agentic AI Certification",
       org: "Datagami + IBM + NASSCOM",
       date: "Feb–Mar 2026",
-      img: "/certs/Agentic_ai.pdf",
+      img: "/certs/Agentic_ai.jpg",
     },
     {
       title: "Generative AI Certification",
       org: "Datagami + IBM + NASSCOM",
       date: "Jan–Feb 2026",
-      img: "/certs/Generativ_ai.pdf",
+      img: "/certs/Generative_ai.jpg",
     },
     {
       title: "Cybersecurity Analyst Job Simulation",
