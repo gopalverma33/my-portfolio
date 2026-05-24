@@ -5,6 +5,23 @@ import "./projects.css";
 
 const PROJECTS = [
   {
+  title: "📚 Library Management System",
+  desc: "Full-stack MERN Library Management System with JWT authentication, role-based access control, membership validation, automated fine calculation, and book issue/return workflow. Integrated Cloudinary for image uploads and deployed using Vercel and Render.",
+  ss: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da",
+  tech: [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "JWT",
+    "Cloudinary",
+    "Render",
+    "Vercel"
+  ],
+  live: "https://library-management-system-ce9i7n4nb.vercel.app/",
+  code: "https://github.com/gopalverma33/library-management-system",
+},
+  {
   title: "📚 NotesIn – Smart Learning Platform",
   desc: "All-in-one student learning platform offering university notes, coding resources, resume builder, quizzes, and AI-powered tools. Built with Next.js and deployed on Render with a custom domain.",
   ss: "https://images.unsplash.com/photo-1513258496099-48168024aec0",
