@@ -158,12 +158,12 @@ export function Resume() {
 
           <ul className="project-list">
             {[
-              "NotesIn – Smart Learning Platform (Next.js, Gemini API, Render)",
-"Attendify QR – Smart Attendance System (Next.js, QR Code, Vercel)",
-"RealTrust Business CMS – MERN Admin Dashboard (Vercel + Render)",
-"Portfolio Website – React & Framer Motion Based Personal Site",
-
-            ].map((project, i) => (
+  "Library Management System – MERN Stack Based Role-Based Library Platform (MongoDB, Express.js, React.js, Node.js)",
+  "NotesIn – Smart Learning Platform (Next.js, Gemini API, Render)",
+  "Attendify QR – Smart Attendance System (Next.js, QR Code, Vercel)",
+  "RealTrust Business CMS – MERN Admin Dashboard (Vercel + Render)",
+  "Portfolio Website – React & Framer Motion Based Personal Site",
+].map((project, i) => (
               <motion.li
                 key={i}
                 initial={{ opacity: 0, x: -25 }}
