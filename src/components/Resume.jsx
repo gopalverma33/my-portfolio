@@ -114,7 +114,7 @@ export function Resume() {
                 degree: "B.Tech in Computer Science & Engineering",
                 college: "Medicaps University, Indore, Madhya Pradesh",
                 period: "2022 – 2026",
-                detail: "Current GPA: 7.5",
+                detail: "Current GPA: 7.63",
               },
               {
                 degree: "Higher Secondary (12th)",
